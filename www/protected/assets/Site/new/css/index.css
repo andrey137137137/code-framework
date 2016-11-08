@@ -1,0 +1,16 @@
+
+.grid-view table.items tr.odd-destroyed td,
+.grid-view table.items tr.even-destroyed td
+{
+    color: #fff;
+}
+
+.grid-view table.items tr.odd-destroyed
+{
+    background-color: #a50000 !important;
+}
+
+.grid-view table.items tr.even-destroyed
+{
+    background-color: #610000 !important;
+}
